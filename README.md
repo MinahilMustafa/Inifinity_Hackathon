@@ -1,3 +1,6 @@
+#DEMO LINK
+https://www.loom.com/share/3f7c4e72497a49eaa07ee2bfa69859c1
+
 # NovaWorks CRM — AI Project Manager (Meeting to Execution)
 **The Infinity Hack ’26 — Challenge Submission**  
 **Repository**: [github.com/MinahilMustafa/Inifinity_Hackathon](https://github.com/MinahilMustafa/Inifinity_Hackathon)  
